@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/IhoraDev-test_task__for__NerdySoft/static/css/main.b074c8aa.chunk.css",
+    "main.js": "/IhoraDev-test_task__for__NerdySoft/static/js/main.6675af8b.chunk.js",
+    "main.js.map": "/IhoraDev-test_task__for__NerdySoft/static/js/main.6675af8b.chunk.js.map",
+    "runtime-main.js": "/IhoraDev-test_task__for__NerdySoft/static/js/runtime-main.2a0af9cb.js",
+    "runtime-main.js.map": "/IhoraDev-test_task__for__NerdySoft/static/js/runtime-main.2a0af9cb.js.map",
+    "static/css/2.34640739.chunk.css": "/IhoraDev-test_task__for__NerdySoft/static/css/2.34640739.chunk.css",
+    "static/js/2.6be0ef06.chunk.js": "/IhoraDev-test_task__for__NerdySoft/static/js/2.6be0ef06.chunk.js",
+    "static/js/2.6be0ef06.chunk.js.map": "/IhoraDev-test_task__for__NerdySoft/static/js/2.6be0ef06.chunk.js.map",
+    "index.html": "/IhoraDev-test_task__for__NerdySoft/index.html",
+    "precache-manifest.6ed72ada39b98ac14f275ecbf52585a6.js": "/IhoraDev-test_task__for__NerdySoft/precache-manifest.6ed72ada39b98ac14f275ecbf52585a6.js",
+    "service-worker.js": "/IhoraDev-test_task__for__NerdySoft/service-worker.js",
+    "static/css/2.34640739.chunk.css.map": "/IhoraDev-test_task__for__NerdySoft/static/css/2.34640739.chunk.css.map",
+    "static/css/main.b074c8aa.chunk.css.map": "/IhoraDev-test_task__for__NerdySoft/static/css/main.b074c8aa.chunk.css.map",
+    "static/js/2.6be0ef06.chunk.js.LICENSE.txt": "/IhoraDev-test_task__for__NerdySoft/static/js/2.6be0ef06.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/IhoraDev-test_task__for__NerdySoft/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a0af9cb.js",
+    "static/css/2.34640739.chunk.css",
+    "static/js/2.6be0ef06.chunk.js",
+    "static/css/main.b074c8aa.chunk.css",
+    "static/js/main.6675af8b.chunk.js"
+  ]
+}
