@@ -6,7 +6,7 @@ const initialState = {
         {
             ID: nanoid(),
             title: " What is Lorem Ipsum? ",
-            description: " Lorem Ipsum sdgdfgvdythjgvcw e ",
+            description: " Lorem Ipsum sdgdfgvdy thjgvcw e ",
             date: new Date().toDateString(),
             edited: false
         },
