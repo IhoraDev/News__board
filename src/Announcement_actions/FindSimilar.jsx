@@ -1,6 +1,7 @@
 import React from 'react';
 import {RenderAnnouncement} from '../components';
 
+
 const FindSimilar = ({announcements, selectedAnn}) => {
     let all_words_count = new Map();
 

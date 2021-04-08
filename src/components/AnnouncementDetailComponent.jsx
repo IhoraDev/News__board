@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import { RenderAnnouncement, Header } from '../components';
 import { FindSimilar } from '../Announcement_actions';
 
+
 const mapStateToProps = (state) => {
     return {
         announcements: state

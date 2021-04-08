@@ -3,6 +3,7 @@ import {AnnouncementDetailComponent} from '../components';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import {Home} from '../Home';
 
+
 const Main = () => {
     return (
         <div>

@@ -3,7 +3,6 @@ import { Card, CardHeader, CardText, CardBody, CardFooter } from 'reactstrap';
 import { Link } from 'react-router-dom';
 import { EditAnnouncement, DeleteAnnouncement } from '../Announcement_actions';
 
-
 const RenderAnnouncement = ( props ) => {
 
     return (

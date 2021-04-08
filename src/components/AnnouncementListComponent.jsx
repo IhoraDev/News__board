@@ -5,6 +5,7 @@ import { RenderAnnouncement } from '../components';
 const AnnouncementList = (props) => {
 
     const rendered_anns = props.announcements.map((ann) => {
+
         return (
             <div
                 className="col-6"

@@ -4,6 +4,7 @@ import { nanoid } from '@reduxjs/toolkit';
 import { addAnnouncement } from '../redux/ActionCreators';
 import MyModal from '../components/ModalComponent';
 
+
 const AddAnnouncement = ({ dispatch }) => {
 
     const [title, setTitle] = useState('');

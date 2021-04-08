@@ -1,8 +1,8 @@
 {
-  "name": "announcement_website",
+  "name": "announcement_list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://IhoraDev.github.io/test_task__for__NerdySoft",
+  "homepage": "https://IhoraDev.github.io/Announcement_list",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "@testing-library/jest-dom": "^5.11.3",

@@ -3,6 +3,7 @@ import { connect } from 'react-redux';
 import { editAnnouncement } from '../redux/ActionCreators';
 import MyModal from '../components/ModalComponent';
 
+
 const EditAnnouncement = ({ dispatch, ann }) => {
     const [title, setTitle] = useState(ann.title);
     const [description, setDescription] = useState(ann.description);

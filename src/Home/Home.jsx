@@ -15,6 +15,7 @@ const Home = ({announcements}) => {
     const handleChange = event => {
         setSearchItem(event.target.value);
     };
+
     return (
         <>
             <Header
