@@ -1,4 +1,5 @@
-# Announcement list
+# News board
 
 # How run project?
-For run this project you need: npm install
+* npm install or npm i
+* 
