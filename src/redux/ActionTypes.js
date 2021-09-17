@@ -1,4 +1,3 @@
-
-export const ADD_ANNOUNCEMENT = 'ADD_ANNOUNCEMENT';
-export const EDIT_ANNOUNCEMENT = 'EDIT_ANNOUNCEMENT';
-export const DELETE_ANNOUNCEMENT = 'DELETE_ANNOUNCEMENT';
+export const ADD_NEWS = 'ADD_NEWS';
+export const EDIT_NEWS = 'EDIT_NEWS';
+export const DELETE_NEWS = 'DELETE_NEWS';

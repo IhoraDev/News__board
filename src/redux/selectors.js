@@ -1,4 +1,3 @@
-
-export const selectAnnouncements = state => {
-    return state.announcements;
-}
+export const selectNews = (state) => {
+  return state.announcements;
+};
